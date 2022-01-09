@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.blogimage{
+    border: 3px solid green;
+    height: 50vh;
+    width: 100vw; 
+}
+.blogimage img{
+    margin: auto;  
+    border: 3px solid green;
+    height: 50vh;
+    width: 70vw;
+    margin: 30px 200px;
+}
